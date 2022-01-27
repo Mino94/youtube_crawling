@@ -42,7 +42,6 @@ def SC_KEYWORD_YOUTUBE_REPLY_20211019():
     def extract():
 
         # 감정분석 api 변수 저장
-        # emo_url = 'http://10.70.201.254:80/model-engine/social_senti_keyword/'
         emo_url = '#'
 
         # MONGO DB 연결 설정
